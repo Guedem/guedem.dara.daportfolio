@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us04web.zoom.us/j/8496311162?pwd=zaPQkr7BDi7UBmnSAlJQbngWi6rGaG.1'
 
 design:
   columns: '2'
