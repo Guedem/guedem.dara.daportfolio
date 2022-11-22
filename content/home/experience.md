@@ -25,7 +25,6 @@ experience:
   - title: Data Analyst - Intern
     company: Akros
     company_url: 'https://akros.com/'
-    company_logo: 
     location: Remote
     date_start: '2022-06-01'
     date_end: '2022-10-31'
@@ -72,5 +71,5 @@ experience:
 
 
 design:
-  columns: '2'
+  columns: '1'
 ---

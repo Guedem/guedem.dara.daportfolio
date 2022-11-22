@@ -17,8 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: I have 10 years of using Stata Statistical package as an undergrad and grad student in Economics a the UM.
+    skill_logo: stata_logo_adobe_express
     icon: Stata17
-    icon_pack: fab
+    icon_pack: fab 
     name: Stata
   - description: I have 8 years of experience using R as an undergrad and grad student a the UM.
     icon: r-project
