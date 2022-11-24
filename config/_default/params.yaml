@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: minimal
-  font: minimal
+  theme_day: custom
+  theme_night: Minimal
+  font: ''
   font_size: L
 
 # SEO
@@ -21,7 +21,7 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'guedem_dara'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-TFXP6TSV9B'
     baidu_tongji: ''
   verification:
     google: ''
