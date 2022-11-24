@@ -1,1 +1,19 @@
 // Override this file to add your own SCSS styling.
+
+//this is increase the website container's width from 1290 to 1500. 
+.container {
+  max-width: 1500px;
+}
+
+//this is copied from the website to modify the measurements of the profile picture. 
+.avatar {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+/*h1 {
+  font-size: 2.25rem;
+  color: rgb(230, 65, 137);
+}*/
