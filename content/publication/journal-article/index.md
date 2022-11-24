@@ -1,35 +1,39 @@
 ---
-abstract: For many value-based decisions, people need to retrieve relevant information from their memory. In our previous work, we have shown that memory biases decisions in the sense that better-memorized choice options are preferred, even if these options are comparatively unattractive. However, the cognitive mechanisms that drive this memory bias remain unclear. In the current pre-registered study, we tested the hypothesis that the memory bias arises because people believe they remember better options more often than worse options. Specifically, we predicted a positive correlation between the memory bias on value-based decisions and the belief in value-dependent memory performance. This prediction was confirmed. Additional exploratory analyses revealed that memory performance was indeed higher for more attractive options, indicating that letting decisions be influenced by memory can be an adaptive strategy. However, the memory bias persisted after correcting for this effect, suggesting that it is not simply an artifact of unequal memory performance. Our results highlight a critical influence of beliefs on behavior and add to an emerging understanding of the role of memory in shaping value-based decisions.
+abstract: 
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
-- Sebastian Gluth
+#- admin
+- Damon Shepherd MS
+- Guedem Dara MA
+- Caitlin Swift MA
+- Mary Kay Bogumill PhD 
 #date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://images.search.yahoo.com/yhs/search;_ylt=AwrWnepgpn9jg3YAxhIPxQt.;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=predictive+modeling+news&type=sdff_9527_FFW_ZZ&hsimp=yhs-3&hspart=iba&grd=1&ei=UTF-8&fr=yhs-iba-3#id=93&iurl=http%3A%2F%2F1.bp.blogspot.com%2F-t42GoxpHwJM%2FVZf2Q2ktSII%2FAAAAAAAAZQk%2FH69MEE5riCU%2Fs1600%2FPredictive-Analytics-straight-ahead.jpg&action=click)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Scientific Reports, 8*(1)'
+publication: '*Predictive Modeling News*'
 publication_short: ""
-publication_types:
+publication_types: 
 - "2"
-publishDate: "2018-07-01T00:00:00Z"
+publishDate: "2016-02-01T00:00:00Z"
 slides: example
-summary: Memory beliefs drive the memory bias on value-based decisions.
+summary: Predicting consumers' health based on bio metric measures.
 tags:
 - Source Themes
-title: Memory beliefs drive the memory bias on value-based decisions
+title: "Health-Based Consumer Analytics: Bending Trend by Design, Not by Chance"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf:  
+url_website: https://www.healthcareupdatenewsservice.com/archive/2016/PreModNews20160205.html
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "www.PredictiveModelingNews.com "
 url_video: ""
 ---

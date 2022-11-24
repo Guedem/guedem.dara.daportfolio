@@ -11,13 +11,14 @@ weight: 90
 
 title: Publications
 subtitle: ''
+url_website: https://www.healthcareupdatenewsservice.com/archive/2016/PreModNews20160205.html
 
 content:
   # Filter on criteria
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'url_website: https://www.healthcareupdatenewsservice.com/archive/2016/PreModNews20160205.html'
     category: ''
     publication_type: ''
     author: ''

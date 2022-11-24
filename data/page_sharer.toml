@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "twitter"
-  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  url = "https://twitter.com/guedem_dara"
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  url = "linkedin.com/in/guedem-dara-6867b8b4"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
@@ -74,9 +74,9 @@
   enable = false
 
 [[buttons]]
-  id = "tumblr"
-  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
-  title = "Tumblr"
+  id = "kaggle"
+  url = "https://www.kaggle.com/guedem/account?isEditing=False&verifyPhone=False"
+  title = "kaggle"
   icon_pack = "fab"
-  icon = "tumblr"
+  icon = "kaggle"
   enable = false
