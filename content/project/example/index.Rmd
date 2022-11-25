@@ -7,23 +7,26 @@ image:
 links:
 - icon: kaggle
   icon_pack: fab
-  name: Follow
+  name:
   url: https://www.kaggle.com/guedem
+- icon: github
+  icon_pack: fab
+  name: 
+  link: "https://github.com/Guedem"
 #slides: example
-summary: An EDA and Regression Analysis of Craigslist Housing Rental Advertisements Dataset from 2000 to 2018. 
+summary:
 tags:
-- Deep Learning
-title: Data Analysis Project
+- Internal
+title: To be updated
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-In this project, I analyzed a dataset called Craigslist housing rental posts from 2000 - 2018. The dataset is an open source dataset from Kaggle. 
 
 ```{r}
-#ADD THE HOUSING EDA HERE 
+#Load dataset 
 
 ```
 

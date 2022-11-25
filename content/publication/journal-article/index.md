@@ -1,6 +1,9 @@
 ---
+#Data Smart Solutions White Paper Publications Information
 abstract: 
 author_notes:
+- Equal contribution
+- Equal contribution
 - Equal contribution
 - Equal contribution
 authors:
@@ -22,18 +25,17 @@ publication_short: ""
 publication_types: 
 - "2"
 publishDate: "2016-02-01T00:00:00Z"
-slides: example
+#slides: example
 summary: Predicting consumers' health based on bio metric measures.
 tags:
 - Source Themes
 title: "Health-Based Consumer Analytics: Bending Trend by Design, Not by Chance"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: ""
 url_pdf:  
-url_website: https://www.healthcareupdatenewsservice.com/archive/2016/PreModNews20160205.html
-url_poster: ""
+url_poster: "https://www.healthcareupdatenewsservice.com/archive/2016/PreModNews20160205.html"
 url_project: ""
 url_slides: ""
-url_source: "www.PredictiveModelingNews.com "
+#url_source: www.PredictiveModelingNews.com
 url_video: ""
 ---

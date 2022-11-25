@@ -26,22 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: guedem.dara@outlook.com
-  # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
-  #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
-  # coordinates:
-  #   latitude: '37.4275'
-  #   longitude: '-122.1697'
-  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  # office_hours:
-  #   - 'Monday 10:00 to 13:00'
-  #   - 'Wednesday 09:00 to 10:00'
-  # appointment_url: 'https://calendly.com'
+
   contact_links:
     - icon: twitter
       icon_pack: fab
@@ -51,7 +36,19 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://us04web.zoom.us/j/8496311162?pwd=zaPQkr7BDi7UBmnSAlJQbngWi6rGaG.1'
-
+    - icon: linkedin
+      icon_pack: fab
+      name: 
+      link: "https://www.linkedin.com/in/guedem-dara-6867b8b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk50itg9xSz2KIdiP1KTC0Q%3D%3D"
+    - icon: kaggle
+      icon_pack: fas
+      name: Follow me
+      link: "https://www.kaggle.com/guedem/account?isEditing=False&verifyPhone=False"
+    - icon: GitHub
+      icon_pack: fas
+      name: Follow me
+      link: "https://github.com/Guedem"
+      
 design:
   columns: '2'
 ---

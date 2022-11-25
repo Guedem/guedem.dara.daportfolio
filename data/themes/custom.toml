@@ -1,3 +1,4 @@
+#TO CHANGE COLORS OF THE WIDGETS, TABS, ETC.
 #theme metadata
 name = "custom"
 
@@ -5,7 +6,7 @@ name = "custom"
 #light = true
 
 #Primary 
-primary = "#4a4a48"             #023e8a
+primary = "#4a4a48"               #023e8a
 
 #Menu 
 menu_primary = "#4a4a48"          #menu bar, 023e8a
@@ -15,7 +16,7 @@ menu_title = "#0e131f "           #f72585
 
 #Home sections 
 home_section_odd = "59546c"
-home_section_even = "59546c"        #rgb(247, 247, 247)
+home_section_even = "59546c"      #rgb(247, 247, 247)
 
 [dark]
 link = "#bbdefb"

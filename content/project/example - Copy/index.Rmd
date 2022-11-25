@@ -7,12 +7,16 @@ image:
 links:
 - icon: kaggle
   icon_pack: fab
-  name: Follow
+  name:
   url: https://www.kaggle.com/guedem
+- icon: github
+  icon_pack: fab
+  name: 
+  link: "https://github.com/Guedem"
 #slides: example
 summary: An EDA and Regression Analysis of Craigslist Housing Rental Advertisements Dataset from 2000 to 2018. 
 tags:
-- Deep Learning
+- Internal
 title: Data Analysis Project
 url_code: ""
 url_pdf: ""
