@@ -12,13 +12,13 @@ education:
     institution: University of Montana
     year: 2012
 email: ""
-first_name: Alice
+first_name: Guedem
 highlight_name: true
 interests:
 - Health Economics 
 - Machine Learning 
 - Regression Analysis
-last_name: Bighetti
+last_name: Dara
 # organizations:
 # - name: Stanford University
 #   url: https://www.stanford.edu/
@@ -41,7 +41,7 @@ social:
   link: https://github.com/Guedem
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/guedem-dara-6867b8b4
+  link: https://linkedin.com/in/guedem-dara-6867b8b4
 superuser: true
 title: Guedem Dara
 ---

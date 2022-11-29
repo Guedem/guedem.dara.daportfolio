@@ -16,7 +16,7 @@ authors:
 doi: ""
 featured: false
 image:
-  # caption: 'Image credit: [**Unsplash**](https://images.search.yahoo.com/yhs/search;_ylt=AwrWnepgpn9jg3YAxhIPxQt.;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=predictive+modeling+news&type=sdff_9527_FFW_ZZ&hsimp=yhs-3&hspart=iba&grd=1&ei=UTF-8&fr=yhs-iba-3#id=93&iurl=http%3A%2F%2F1.bp.blogspot.com%2F-t42GoxpHwJM%2FVZf2Q2ktSII%2FAAAAAAAAZQk%2FH69MEE5riCU%2Fs1600%2FPredictive-Analytics-straight-ahead.jpg&action=click)'
+  # caption: 'Image credit: [**icrunchdata News**](https://images.search.yahoo.com/yhs/search;_ylt=AwrWnepgpn9jg3YAxhIPxQt.;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=predictive+modeling+news&type=sdff_9527_FFW_ZZ&hsimp=yhs-3&hspart=iba&grd=1&ei=UTF-8&fr=yhs-iba-3#id=93&iurl=http%3A%2F%2F1.bp.blogspot.com%2F-t42GoxpHwJM%2FVZf2Q2ktSII%2FAAAAAAAAZQk%2FH69MEE5riCU%2Fs1600%2FPredictive-Analytics-straight-ahead.jpg&action=click)'
   focal_point: ""
   preview_only: false
 projects: []

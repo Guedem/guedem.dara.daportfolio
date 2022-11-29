@@ -1,5 +1,5 @@
 ---
-#SKILLS INFORMATION ON MAIN PAGE
+#COURSE WORK INFORMATION ON MAIN PAGE
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
@@ -16,19 +16,19 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-
-  - description: 'The following are some courses that I have completed on Udemy in the last couple of years to reinforce my skills <a href = "https://www.udemy.com/course/the-essential-guide-to-stata/" target="_blank" rel="noopener noreferrer" style="color: ocean">The Essential Guide to Stata</a>,
-  
-  <a href = "https://www.udemy.com/course/r-programming/" target="_blank" rel="noopener noreferrer" style="color: ocean">R-Programming</a>,
-  
-  <a href = "https://www.udemy.com/course/the-complete-sql-bootcamp/" target="_blank" rel="noopener noreferrer" style="color: ocean">The Complete SQL Bootcamp</a>,
-  
-  <a href = "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/" target="_blank" rel="noopener noreferrer" style="color: ocean">Microsoft Power BI Desktop for Business Intelligence</a> '
-    icon: udemy
-    icon_pack: fab
-    name: Other   
-  
+# feature:
+# 
+#   - description: 'The following are some courses that I have completed on Udemy in the last couple of years to reinforce my skills <a href = "https://www.udemy.com/course/the-essential-guide-to-stata/" target="_blank" rel="noopener noreferrer" style="color: ocean">The Essential Guide to Stata</a>,
+# 
+#   <a href = "https://www.udemy.com/course/r-programming/" target="_blank" rel="noopener noreferrer" style="color: ocean">R-Programming</a>,
+# 
+#   <a href = "https://www.udemy.com/course/the-complete-sql-bootcamp/" target="_blank" rel="noopener noreferrer" style="color: ocean">The Complete SQL Bootcamp</a>,
+# 
+#   <a href = "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/" target="_blank" rel="noopener noreferrer" style="color: ocean">Microsoft Power BI Desktop for Business Intelligence</a> '
+  #   icon: udemy
+  #   icon_pack: fab
+  #   name: Other   
+  # 
   # - description: 10%
   #   icon: camera-retro
   #   icon_pack: fas

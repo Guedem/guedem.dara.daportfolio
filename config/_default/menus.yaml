@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Course Work
+  - name: Coursework
     url: '#coursework'
     weight: 15
   - name: Skills
