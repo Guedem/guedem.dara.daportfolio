@@ -1,5 +1,5 @@
 ---
-title: "Relevant Coursework"
+title: "Coursework"
 author: "Dara, Guedem"
 date: 2022-11-26T21:13:14-05:00
 categories: ["R"]
@@ -10,7 +10,7 @@ weight: 15
 
 
 
-## `Dara Guedem's Coursework`
+## `Dara Guedem's Coursework Data`
 
 To give a summary of some of the graduate courses that I have taken over the years, I created a data set of 29 courses and five variables where: 
 
