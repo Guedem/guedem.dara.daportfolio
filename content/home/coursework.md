@@ -1,5 +1,5 @@
 ---
-#COURSE WORK INFORMATION ON MAIN PAGE
+#COURSEWORK INFORMATION ON MAIN PAGE
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Coursework
+title: Relevant Coursework
 subtitle:
 
 # Showcase personal skills or business features.
