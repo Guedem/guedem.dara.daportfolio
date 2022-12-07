@@ -64,3 +64,4 @@ freq_by_course <- coursework %>%
 freq_by_course
 ```
 
+Note: I've used STATA the longest because I started using it as an undergraduate student at the UM. 

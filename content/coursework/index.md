@@ -79,3 +79,4 @@ freq_by_course
 ## 11 "Weka"           1 3%
 ```
 
+Note: I've used STATA the longest because I started using it as an undergraduate student at the UM. 

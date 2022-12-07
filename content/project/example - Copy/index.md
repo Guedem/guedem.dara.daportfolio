@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by  https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Kaggle
   focal_point: Smart
 links:
 - icon: kaggle
@@ -24,10 +24,7 @@ url_slides: ""
 url_video: ""
 ---
 
-In this project, I analyzed a dataset called Craigslist housing rental posts from 2000 - 2018. The dataset is an open source dataset from Kaggle. 
+This project is an exploration and analysis of the Craigslist advertising  posts for housing rentals in the San Francisco Bay Area from 2000 to 2018. The data set was collected by [Kate Pennington](https://www.katepennington.org/data) in 2018 using the Wayback Machine. It has more than 200,000 housing rental posts and seventeen variables, including date, price, number of bedrooms and bathrooms, etc. The document goes as follow: an exploratory data analysis, data cleaning, descriptive statistics, regression analysis, a summary of the overall project, and finally citation of the sources. 
 
 
-```r
-#ADD THE HOUSING EDA HERE 
-```
 
