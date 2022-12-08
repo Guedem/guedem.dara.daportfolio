@@ -2,7 +2,9 @@
 #COURSEWORK INFORMATION ON MAIN PAGE
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: features
+widget: #coursework
+
+#rl: '#coursework'
 
 # This file represents a page section.
 headless: true
@@ -13,7 +15,23 @@ weight: 30
 title: Coursework
 subtitle:
 
+featured: TRUE
+#image: content/coursework/featured/
 
+# image:
+#   caption: featured.jpg
+#   focal_point: Smart
+
+#To add a background picture
+# design:
+#   background:
+#     #name of image in `assets/media/`
+#     image: featured.jpg
+
+header:
+  caption: ""
+  image: "featured.jpg"
+  
   #   icon: udemy
   #   icon_pack: fab
   #   name: Other   
@@ -38,7 +56,7 @@ subtitle:
 #  description: "90%"
 ---
 
-# Dara Guedem's Coursework Data
+## **Dara Guedem's Coursework Data**
 
 To give a summary of some of the graduate courses that I have taken over the years, I created a data set of 29 courses and five variables where: 
 
@@ -51,20 +69,13 @@ To give a summary of some of the graduate courses that I have taken over the yea
   
 The graph below shows some of the graduate level courses that I completed from the University of Montana; MA in Economics (2012 - 2015) and MSBA (2017 - 2018). I've also resourced myself through different books and online tutorials (from YouTube) post graduation. Lately, I have completed some online courses via Udemy.
 
-
-<img src="{{< blogdown/postref >}}content/coursework/featured" width="672" />
-
 Note: ECNS 599 is a 10 credits course split into 2 semesters (Fall 2014 and Spring 2015). 
 
-# `Frequency of Software Usage`
+## **Frequency of Software Usage**
 Table of frequency of software used in the different courses that I completed over the years. 
 
-
-```r
+```{r, echo=FALSE}
 library(dplyr)
-```
-
-```r
 freq_by_course <- coursework %>%
                     group_by(software) %>%
                     summarise(n = n(), .groups = 'drop') %>%

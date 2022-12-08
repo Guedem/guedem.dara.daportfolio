@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Kaggle
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
 - icon: kaggle
@@ -17,7 +17,7 @@ links:
 summary:
 tags:
 - Internal
-title: To be updated
+title: Magazines Analysis - Africa Science and Society for Science
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -26,7 +26,4 @@ url_video: ""
 
 
 
-```r
-#Load dataset 
-```
 

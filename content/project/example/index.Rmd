@@ -17,7 +17,7 @@ links:
 summary:
 tags:
 - Internal
-title: To be updated
+title: Magazines Analysis - Africa Science and Society for Science
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -25,8 +25,5 @@ url_video: ""
 ---
 
 
-```{r}
-#Load dataset 
 
-```
 
