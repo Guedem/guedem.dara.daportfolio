@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Unsplash
+  caption: Photo by https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Kaggle
   focal_point: Smart
 links:
 - icon: kaggle

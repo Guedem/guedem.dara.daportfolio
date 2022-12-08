@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: ""
+external_link: "https://www.kaggle.com/code/guedem/craigslist-house-and-apartment-rentals-eda"
 image:
   caption: Photo by  https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Kaggle
   focal_point: Smart
