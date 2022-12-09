@@ -59,4 +59,4 @@ Learning languages is of great interest to me. In addition to my native language
 Through all these various experiences, I am constantly growing personally and professionally. If hired, I believe I will be a great addition, bringing a rich and diverse background to the workplace.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Guedem_Dara_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
