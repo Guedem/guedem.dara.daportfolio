@@ -12,3 +12,4 @@ tags:
 - Demo
 title: What Are the Impacts of South African Child Support Grant on Children's Nutritional Status?
 ---
+Presentation at the UM Graduate Research conference, of my MA thesis in Economics, using data from the National Income Dynamic Study Survey of South Africa.

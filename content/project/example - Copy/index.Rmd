@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-12-27T00:00:00Z"
 external_link: "https://www.kaggle.com/code/guedem/craigslist-house-and-apartment-rentals-eda"
 image:
   caption: Photo by  https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals on Kaggle
@@ -14,10 +14,10 @@ links:
   name: 
   link: "https://github.com/Guedem"
 #slides: example
-summary: An EDA and Regression Analysis of Craigslist Housing Rental Advertisements Dataset from 2000 to 2018. 
+summary: An EDA, Data Visualization, and Regression Analysis of San Francisco Bay Craigslist Advertisements Dataset from 2000 to 2018. 
 tags:
 - Internal
-title: Data Analysis Project
+title: Data Analysis of San Francisco Bay Area's Housing Rentals
 url_code: ""
 url_pdf: ""
 url_slides: ""
