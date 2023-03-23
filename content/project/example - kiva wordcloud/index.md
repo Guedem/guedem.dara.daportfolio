@@ -2,7 +2,7 @@
 date: "2017-12-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by Society for Science on www.societyforscience.org
+  caption: Wordcloud of kiva loans activities I created in R
   focal_point: Smart
 links:
 - icon: kaggle
