@@ -17,12 +17,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: I have 10 years of using Stata Statistical package as an undergrad and grad student in Economics a the UM.
+  - description: I have 10 years of using Stata Statistical package as an undergraduate and graduate student in Economics at the UM.
     skill_logo: stata_logo_adobe_express
-    icon: Stata17
+    icon: Stata
     icon_pack: fab 
     name: Stata
-  - description: I have 8 years of experience using R as an undergrad and grad student a the UM.
+  - description: I have 8 years of experience using R as an undergraduate and graduate student at the UM.
     icon: r-project
     icon_pack: fab
     name: R
