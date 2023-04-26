@@ -19,7 +19,7 @@ subtitle:
 feature:
   - description: I have 10 years of using Stata Statistical package as an undergraduate and graduate student in Economics at the UM.
     skill_logo: stata_logo_adobe_express
-    icon: Stata
+    icon: stata-pack
     icon_pack: fab 
     name: Stata
   - description: I have 8 years of experience using R as an undergraduate and graduate student at the UM.
