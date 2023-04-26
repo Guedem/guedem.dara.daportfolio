@@ -58,7 +58,7 @@ experience:
         * Used SQL to write queries, to modify and to update telecommunication companies' data.
         * Trained newly hired workers to use AutoCAD Map3d engineering software and assisted clients.
         
-  - title: Intern
+  - title: Project Intern
     company: DataSmart Solutions, DSS, 
     location: Missoula, Montana
     date_start: '2015-10-01'
