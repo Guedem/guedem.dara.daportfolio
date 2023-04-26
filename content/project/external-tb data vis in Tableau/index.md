@@ -6,7 +6,7 @@ image:
   caption: Photo by Toa Heftiba on https://www.who.int/
   focal_point: Smart
 # summary: An example of linking directly to an external project website using `external_link`.
-summary: Data visualization and analysis in Tableau of tuberculosis burden by country using a dataset downloaded from the World Health Organization ranging from 1990 to 2013. 
+summary: Data visualization and analysis in Tableau of tuberculosis burden by country, from 1990 to 2013, using data from the World Health Organization.  
 tags:
 - External
 - Demo
