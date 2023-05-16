@@ -17,7 +17,7 @@ highlight_name: true
 interests:
 - Economic Analysis 
 - Business Analytics
-- Machine Learning and other
+- Machine Learning and more
 last_name: Dara
 # organizations:
 # - name: Stanford University
