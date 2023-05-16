@@ -1,0 +1,31 @@
+---
+title: "Coursework"
+author: "Dara, Guedem"
+date: 2022-11-26T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "treemap", "summary"]
+widget: coursework
+weight: 15
+---
+
+
+
+## `Dara Guedem's Coursework Data`
+
+To give a summary of some of the graduate courses that I have taken over the years, I created a data set of 29 courses and five variables where: 
+
+  - year = academic year
+  - season = Spring or Fall semester, 
+  - FieldOfStudy = field of study, 
+  - course = course department number and title, 
+  - credits = the number of credits per course (1-10), and 
+  - software = software used in a course. 
+  
+The table below summarizes some of the graduate level courses that I completed at the University of Montana during MA in Economics (2012 - 2015) and MSBA (2017 - 2018). I've also resourced myself through different books and online tutorials (from YouTube) post graduation. Lately, I have completed some online courses via Udemy.
+
+
+
+
+
+
+
