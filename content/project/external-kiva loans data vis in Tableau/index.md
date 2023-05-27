@@ -6,10 +6,9 @@ image:
   caption: Map of Loan Amount by Country in Tableau 
   focal_point: Smart
 # summary: An example of linking directly to an external project website using `external_link`.
-summary: Visualization and analysis in Tableau of Kiva loans to more than 600,000 borrowers in more than 80 countries worldwide from 2013 to 2017.  
+summary: Visualization and analysis in Tableau of Kiva loans to more than 600,000 borrowers in more than 80 countries from 2013 to 2017.  
 tags:
 - External
 - Demo
 title: Kiva Loans Data Visualization and Analysis 
 ---
- 
