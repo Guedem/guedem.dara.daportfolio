@@ -1,7 +1,7 @@
 ---
 #This the link to the Tableau analysis of diabetes prevalence (% of population)
 date: "2023-05-12T10:10:00Z"
-external_link: https://public.tableau.com/views/DiabetesPrevalence_16839571584530/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+external_link: https://public.tableau.com/views/DiabetesPrevalence_16839571584530/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 image:
   caption: Map of Diabetes Prevalence (% of pop. ages 20-79) created in Microsoft PowerBI. March 2023. Guedem Dara
   focal_point: Smart

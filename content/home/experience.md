@@ -59,7 +59,7 @@ experience:
         * Assisted clients and wrote worker’s manual that instructed and guided employees, increasing efficiency outstandingly. 
         
   - title: Project Intern
-    company: DataSmart Solutions, DSS, 
+    company: DataSmart Solutions (DSS )
     location: Missoula, Montana
     date_start: '2015-10-01'
     date_end: '2016-03-31'
